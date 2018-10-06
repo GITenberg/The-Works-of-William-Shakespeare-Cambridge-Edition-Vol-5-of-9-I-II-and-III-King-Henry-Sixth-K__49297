@@ -39,6 +39,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Works of William Shakespeare [Cambridge Edition] [Vol. 5 of 9]
 
   I, II, and III King Henry Sixth; King Richard III; and two
